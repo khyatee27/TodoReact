@@ -2,7 +2,7 @@
   "name": "intro-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://khyatee27.github.io/TodoReact",
+  "homepage": "https://khyatee27.github.io/TodoReact/intro-react",
   "type": "module",
   "scripts": {
     "start": "react-scripts start",
